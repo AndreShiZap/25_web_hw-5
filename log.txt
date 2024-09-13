@@ -1,0 +1,19 @@
+
+
+2024-09-13 14:05:26.280997: Exchange command executed from Lee Hudson
+ _Response from server:
+13.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.45, purchase: 40.85
+12.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.45, purchase: 40.85
+11.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.42, purchase: 40.82
+10.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.35, purchase: 40.75
+
+2024-09-13 14:21:54.192981: Exchange command executed from Alfred Fricke
+ _Response from server:
+13.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.45, purchase: 40.85
+
+2024-09-13 14:22:30.699186: Exchange command executed from Marion Bartlett
+ _Response from server:
+13.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.45, purchase: 40.85
+12.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.45, purchase: 40.85
+11.09.2024:  EUR: sale: 45.9, purchase: 44.9 USD: sale: 41.42, purchase: 40.82
+
