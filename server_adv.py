@@ -68,10 +68,13 @@ class Server:
                 end_date = start_date - timedelta(days=index_day)
                 tasks = []
                 current_date = start_date
+                
                 while current_date >= end_date:
                     tasks.append(get_exchange(current_date))
                     current_date -= timedelta(days=1)
+                
                 m = await asyncio.gather(*tasks)
+                
                 result_lines = []
                 for entry in m:
                     for date, currencies in entry.items():
